@@ -1,6 +1,6 @@
 # Workshop5
-## License-Plate-Detection-using-OpenCV-and-Haar-Cascade-Classifier ##
-## PROGRAM ##
+## License-Plate-Detection-using-OpenCV-and-Haar-Cascade-Classifier 
+## PROGRAM 
 ```py
 import cv2
 import matplotlib.pyplot as plt
@@ -71,7 +71,7 @@ plt.title("Detected Faces")
 plt.axis('off')
 plt.show()
 ```
-## OUTPUT: ##
+## OUTPUT: 
 Original image:
 
 <img width="235" height="412" alt="image" src="https://github.com/user-attachments/assets/6a91346d-a30c-404e-af78-ac183cd45e62" />
@@ -88,5 +88,5 @@ Detected faces:
 
 <img width="255" height="418" alt="image" src="https://github.com/user-attachments/assets/3d55e3eb-ce81-4fca-98ed-cfe941fa8efb" />
 
-## Result:##
+## Result:
 Thus, the program was executed successfully.
